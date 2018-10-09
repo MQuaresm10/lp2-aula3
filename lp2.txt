@@ -1,0 +1,9 @@
+sacar github
+
+clicar no boneco ---> settings ---> billing
+
+clicar no https://education.github.com/pack ---> get your pack ---> yes, im a student ---> chek my mail
+
+sacar o git ---> done
+
+something
